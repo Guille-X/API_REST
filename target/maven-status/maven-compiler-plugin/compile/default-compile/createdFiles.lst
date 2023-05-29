@@ -1,0 +1,4 @@
+com\ployback\demo\config\SwaggerConfig.class
+com\ployback\demo\bean\Persona.class
+com\ployback\demo\controller\DemoController.class
+com\ployback\demo\DemoApplication.class
